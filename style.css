@@ -1,0 +1,52 @@
+div{
+
+    background-color: #eee;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.botonera {
+
+    background-color:wheat;
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+
+}
+
+
+
+.form {
+    text-align: center;
+}
+
+.botonera > button {
+    background-color: white;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+#name , #years {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#name {
+    color:red;
+}
+
+#years {
+    color: blue;
+}
+
+.promociona {
+    color:limegreen;
+    font-weight: bold;
+}
+.repite {
+    color: red;
+    font-weight: bold;
+}
